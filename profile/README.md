@@ -12,7 +12,7 @@
 
 **Open Digital Alliance to connect the economies, science and innovation of the G20**
 
-🚧 **Current Status**: Under construction  
+🚧 **Current Status**: On hold until the completion of OpenG7 
 
 We are building an open ecosystem to connect G20 economies, strengthen scientific cooperation, and inspire a new way of addressing **climate risk disclosure**, **global sustainability**, and **humanitarian aid** in the AI era.  
 
@@ -90,7 +90,7 @@ We invite governments to integrate official data, foster sovereign digital infra
 
 ### 📢 Official channels
 
-📧 contact@openg20.org  
+📧 contact@openg7.org  
 💬 Discord *(coming soon)*  
 🔗 LinkedIn *(coming soon)*  
 
@@ -110,7 +110,7 @@ Apache-2.0 — see LICENSE file.
 
 **Alliance numérique ouverte pour connecter les économies, la science et l’innovation du G20**
 
-🚧 **Statut actuel** : En construction  
+🚧 **Statut actuel** : En attente jusqu’à la finalisation d’OpenG7 
 
 Nous bâtissons un écosystème numérique ouvert pour connecter les économies du G20, renforcer la coopération scientifique et inspirer une nouvelle façon d’aborder la **divulgation des risques climatiques**, la **durabilité mondiale** et l’**aide humanitaire** à l’ère de l’intelligence artificielle.  
 
@@ -188,7 +188,7 @@ Nous invitons les gouvernements à intégrer les données officielles, bâtir de
 
 ### 📢 Canaux officiels
 
-📧 contact@openg20.org  
+📧 contact@openg7.org  
 💬 Discord *(à venir)*  
 🔗 LinkedIn *(à venir)*  
 
