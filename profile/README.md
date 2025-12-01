@@ -96,9 +96,24 @@ We invite governments to integrate official data, foster sovereign digital infra
 
 ---
 
+## 🪙 The OpenG20 Symbolic Coin
+OpenG20 now has its own digital coin representing global cooperation in the era of open data and shared innovation.
+
+Official OpenG20 Coin
+![Pièce officielle OpenG20](assets/OpenG20-token.png)
+
+**Visual meanings:**
+
+- 🌍 The golden globe represents the G20 economies connected through technology, science, and innovation, sharing data to anticipate crises and guide climate and energy transitions.
+- ☀️ The radiant lines symbolize flows of knowledge, trade, and humanitarian coordination spreading across continents in real time.
+- 🍁 The two maple leaves highlight Canada’s role as a founding host and guardian of an open, citizen-powered platform.
+- 🤝 The phrase Coopération – Cooperation reflects OpenG20’s core mission: turning economic, climate, scientific, and humanitarian data into collective intelligence, for fairer and more resilient global decisions
+
+---
+
 ### 📜 License
 
-Apache-2.0 — see LICENSE file.  
+MIT — see LICENSE file.  
 
 ---
 
@@ -194,6 +209,21 @@ Nous invitons les gouvernements à intégrer les données officielles, bâtir de
 
 ---
 
+## 🪙 La pièce symbolique OpenG20
+OpenG20 possède désormais sa propre pièce numérique, qui représente la coopération mondiale à l’ère des données ouvertes et de l’innovation partagée.
+
+Pièce officielle OpenG20
+![Pièce officielle OpenG20](assets/OpenG20-token.png)
+
+**Significations visuelles :**
+
+- 🌍 Le globe doré représente les économies du G20 connectées par la technologie, la science et l’innovation, partageant leurs données pour anticiper les crises et guider les transitions climatiques et énergétiques.
+- ☀️ Les lignes rayonnantes symbolisent les flux de connaissances, d’échanges commerciaux et de coordination humanitaire qui se déploient en temps réel à travers les continents.
+- 🍁 Les deux feuilles d’érable mettent en lumière le rôle du Canada comme hôte fondateur et gardien d’une plateforme ouverte portée par les citoyennes et citoyens.
+- 🤝 L’inscription Coopération – Cooperation reflète la mission centrale d’OpenG20 : transformer les données économiques, climatiques, scientifiques et humanitaires en intelligence collective, pour des décisions mondiales plus justes et plus résilientes.
+
+--
+
 ### 📜 Licence
 
-Apache-2.0 — voir le fichier LICENSE.
+MIT — voir le fichier LICENSE.
